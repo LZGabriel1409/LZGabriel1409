@@ -20,7 +20,6 @@
 📈 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LZGabriel1409&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LZGabriel1409&layout=compact&theme=tokyonight)
 
 ⭐ Sempre aprendendo algo novo e buscando evoluir a cada dia.
