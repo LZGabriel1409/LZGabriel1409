@@ -7,7 +7,7 @@
 - ☕ Desenvolvimento de Sistemas
 - 📱 Desenvolvimento Mobile
 - 🗄️ Banco de Dados
-- 🤖 Robótica
+- 🤖 IoT e Sistemas Embarcados
 
 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack.
 
