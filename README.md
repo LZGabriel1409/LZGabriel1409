@@ -1,8 +1,8 @@
 ## 👋 Olá! Me chamo Luiz Gabriel!
 
-💻 Estudante de Desenvolvimento de Sistemas.
+💻 Sou um Estudante de Desenvolvimento de Sistemas.
 
-🌱 Atualmente me aprofundando em:
+🌱 Atualmente estou me aprofundando em:
 - 🌐 Desenvolvimento Web
 - ☕ Desenvolvimento de Sistemas
 - 📱 Desenvolvimento Mobile
@@ -14,7 +14,7 @@
 📚 Linguagens e tecnologias que possuo conhecimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,github" />
 </p>
 
 📈 Estatísticas
