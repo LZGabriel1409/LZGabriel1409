@@ -14,7 +14,7 @@
 📚 Linguagens e tecnologias que possuo conhecimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,github,vscode" />
 </p>
 
 📈 Estatísticas
