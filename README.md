@@ -1,25 +1,23 @@
-## 👋 Olá! Me chamo Luiz Gabriel!
+## Hi, I'm Luiz Gabriel!👋
 
-💻 Sou um Estudante de Desenvolvimento de Sistemas.
+💻 I'm System Development Student.
 
-🌱 Atualmente estou me aprofundando em:
-- 🌐 Desenvolvimento Web
-- ☕ Desenvolvimento de Sistemas
-- 📱 Desenvolvimento Mobile
-- 🗄️ Banco de Dados
-- 🤖 IoT e Sistemas Embarcados
+🌱 I am currently delving deeper into:
+- 🌐 Web Development
+- ☕ BackEnd Development
+- 📱 Mobile Development
+- 🗄️ Database
+- 🤖 IoT and Embedded Systems
 
-🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack.
+🚀 My main goal is to become a Full Stack Developer.
 
-📚 Linguagens e tecnologias que possuo conhecimento
+📚 Languages ​​and technologies I am proficient in
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,kotlin,mysql,github,figma,windows,linux" />
 </p>
 
-📈 Estatísticas
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LZGabriel1409&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LZGabriel1409&layout=compact&theme=tokyonight)
 
-⭐ Sempre aprendendo algo novo e buscando evoluir a cada dia.
+⭐ Always learning something new and striving to grow every day.
