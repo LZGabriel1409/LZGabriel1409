@@ -87,9 +87,9 @@ const Luiz = {
 | 🚀 Project | 💡 Description |
 |---|---|
 | ⚡ TimeSync | Daily planner |
-| 🖥️ JavaFlix | Catalog interface |
 | ☀️ Sunnyside | Modern Landing Page |
 | 🎵 ProjetoMusic | Music Experience |
+| 🚗 JavaLogExpress | Vehicle control |
 | 🐧 SiteLinux | Educational Website |
 | 🌍 ImperioRomano | Educational Website |
 
