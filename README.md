@@ -100,13 +100,13 @@ const Luiz = {
 ```bash
 > Loading objectives...
 
-[████████░░] Frontend Skills
+[████████  ] Frontend Skills
 
-[██████░░░░] Backend Skills
+[██████    ] Backend Skills
 
-[███████░░░] Design
+[███████   ] Design
 
-[█████████░] Creating Projects
+[█████████ ] Creating Projects
 
 STATUS:
 Never stop learning ⭐
