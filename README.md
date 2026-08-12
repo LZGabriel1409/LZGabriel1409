@@ -118,9 +118,7 @@ Never stop learning ⭐
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LZGabriel1409&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LZGabriel1409&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=LZGabriel1409&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
