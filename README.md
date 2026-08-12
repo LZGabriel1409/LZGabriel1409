@@ -89,7 +89,7 @@ const Luiz = {
 | ⚡ TimeSync | Daily planner |
 | ☀️ Sunnyside | Modern Landing Page |
 | 🎵 ProjetoMusic | Music Experience |
-| 🚗 JavaLogExpress | Vehicle control |
+| 🌻 SolarBeam | Smart plant irrigation |
 | 🐧 SiteLinux | Educational Website |
 | 🌍 ImperioRomano | Educational Website |
 
